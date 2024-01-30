@@ -1,8 +1,8 @@
-// getElementById
+             // getElementById
 //  const heading= document.getElementById("head")
 
 
-q           // getElementsByTageName
+      // getElementsByTageName
 // const tag =document.getElementsByTagName('h1')
 
 
@@ -30,7 +30,7 @@ q           // getElementsByTageName
 
 
 // children node
-const parent =document.querySelector('.parent');
+// const parent =document.querySelector('.parent');
 
-console.log(parent.childNodes);
+// console.log(parent.childNodes);
 
